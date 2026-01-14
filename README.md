@@ -94,6 +94,30 @@ python main.py
 
 ---
 
+## 🛠️ Team Roles & Responsibilities
+
+| Team Member | Role | Responsibilities |
+| :--- | :--- | :--- |
+| **Yaren Yıldız** | Data Persistence & Docs | Storage Systems (JSON/CSV), Documentation, Testing. |
+| **Muhammed Numan Karaca** | GUI Developer | Tkinter Interface Design, UX Improvements, Event Handling. |
+| **Ömer Faruk Özer** | System Architect | Core Business Logic, CLI Implementation, Project Structure. |
+
+---
+
+## 📅 Revision History
+
+| Version | Date | Changes |
+| :--- | :--- | :--- |
+| **v1.0.0** | 14.01.2026 | **Final Release**: Complete System Integration, GUI Polish, Documentation. |
+| **v0.9.0** | 13.01.2026 | **Feature**: Added Attendance Tracking and CSV Export functionality. |
+| **v0.8.0** | 12.01.2026 | **GUI**: Implemented Search, Sort, and detailed Student Views. |
+| **v0.7.0** | 11.01.2026 | **GUI**: Initial Tkinter setup and layout design. |
+| **v0.5.0** | 10.01.2026 | **CLI**: Complete command-line interface implementation. |
+| **v0.3.0** | 09.01.2026 | **Backend**: Developed `StudentManager` services and CRUD logic. |
+| **v0.1.0** | 07.01.2026 | **Kickoff**: Project structure setup, `Student` model definition. |
+
+---
+
 ## 👥 Contributors
 
 | Student ID | Name | GitHub Profile |
