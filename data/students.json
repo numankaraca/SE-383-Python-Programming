@@ -1,0 +1,47 @@
+[
+    {
+        "id": "65503712-94ae-4217-94b9-ce515e739007",
+        "name": "Ali",
+        "surname": "Yilmaz",
+        "class_name": "10A",
+        "grades": {
+            "Math": [
+                85
+            ],
+            "Physics": [
+                90
+            ]
+        },
+        "absence_count": 0,
+        "created_at": "2026-01-14T21:39:28.703050",
+        "updated_at": "2026-01-14T21:39:28.704224"
+    },
+    {
+        "id": "d38200d2-5bb5-4520-af43-a755e96b7d8b",
+        "name": "Ayse",
+        "surname": "Demir",
+        "class_name": "11B",
+        "grades": {
+            "Math": [
+                95
+            ]
+        },
+        "absence_count": 2,
+        "created_at": "2026-01-14T21:39:28.704517",
+        "updated_at": "2026-01-14T21:39:28.705015"
+    },
+    {
+        "id": "919431a4-eea0-4a9c-8a4c-8bbb8dc2aea0",
+        "name": "Mehmet",
+        "surname": "Kaya",
+        "class_name": "10A",
+        "grades": {
+            "History": [
+                70
+            ]
+        },
+        "absence_count": 0,
+        "created_at": "2026-01-14T21:39:28.705233",
+        "updated_at": "2026-01-14T21:39:28.705461"
+    }
+]
